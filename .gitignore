@@ -1,0 +1,26 @@
+# Python virtual environments & bytecode
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Node.js & Frontend build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.npm/
+
+# Environment files & logs
+*.log
+.env
+.env.local
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
